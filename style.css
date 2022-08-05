@@ -1,0 +1,43 @@
+/* --------------------header styles starts*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 150px;
+    height: auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    margin-top: 120px;
+    margin-left: 250px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.nav ul{
+    margin-right: 15px;
+    margin-left: 0;
+    padding: 0;
+    
+}
+.nav li{
+    display: inline-flex;
+    padding: 5px;
+    margin-left: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.navt{
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.fa-fw{
+    margin-right: 10px;
+}
+
+
+
+/* --------------------header styles ends*/
