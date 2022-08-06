@@ -5,7 +5,6 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #0066FF;
 }
 .logo{
     width: 150px;
@@ -14,16 +13,25 @@ body{
 .header{
     display: flex;
     justify-content: space-between;
+    background-color: #0066FF;
+    height: 600px;
 }
 .title{
-    margin-top: 130px;
-    margin-left: 250px;
+    position: relative;
+    top: 150px;
+    left:140px;
+    bottom: 0;
     font-family: 'Josefin Sans', sans-serif;
     color: white;
+    font-size: x-large;
+}
+#ds{
+    margin-bottom: 5px;
 }
 #sub{
-    margin-top: 5p;
-    
+    margin-top: 5px; 
+    font-size: large;
+    text-align: center;
 }
 .nav ul{
     margin-right: 15px;
@@ -50,12 +58,23 @@ body{
     position: absolute;
     bottom: 0;
     left: 0;
-    height: 750px;
+    background-color: #0066FF;
 }
 
 
 /* --------------------header styles ends*/
 
 /* ----------------content styles starts */
-
+.container1{
+    text-align: center;
+    width: 400px;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    font-size: x-large;
+    left: 150px;
+    position: relative;
+    padding: 15px;
+    top: -150px;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+}
 /* ----------------content styles starts */
