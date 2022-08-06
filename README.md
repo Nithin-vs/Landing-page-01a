@@ -10,6 +10,7 @@ I have a plan on desigining a Landing page..
 
 ⚠ Problems ⚠ 
 
-1.Title icon is small in size so it may not be visisble..
-2. Some Font awesome icons are not working.(Removed a section)
+👉 Title icon is small in size so it may not be visisble..
+
+👉 Some Font awesome icons are not working.(Removed a section)
 
