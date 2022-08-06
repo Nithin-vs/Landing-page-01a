@@ -12,14 +12,14 @@ body{
 }
 .header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #0066FF;
     height: 600px;
 }
 .title{
     position: relative;
     top: 150px;
-    left:140px;
+    left:200px;
     bottom: 0;
     font-family: 'Josefin Sans', sans-serif;
     color: white;
@@ -27,8 +27,10 @@ body{
 }
 #ds{
     margin-bottom: 5px;
+    margin-top: 5px;
 }
 #sub{
+    margin-bottom: 5px;
     margin-top: 5px; 
     font-size: large;
     text-align: center;
@@ -37,13 +39,15 @@ body{
     margin-right: 15px;
     margin-left: 0;
     padding: 0;
-    
+    position: absolute;
 }
 .nav li{
     display: inline-flex;
     padding: 5px;
     margin-left: 15px;
     font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    left: 200px;
 }
 .navt{
     text-decoration: none;
@@ -60,7 +64,12 @@ body{
     left: 0;
     background-color: #0066FF;
 }
-
+.dataimg{
+    width: 500px;
+    height: auto;
+    position: relative;
+    top: 330px;
+}
 
 /* --------------------header styles ends*/
 

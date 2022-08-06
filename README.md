@@ -14,3 +14,8 @@ I have a plan on desigining a Landing page..
 
 👉 Some Font awesome icons are not working.(Removed a section)
 
+
+
+✅ Completed ✅
+
+👉 Header is completed with styles...
