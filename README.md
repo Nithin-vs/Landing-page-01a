@@ -14,8 +14,19 @@ I have a plan on desigining a Landing page..
 
 👉 Some Font awesome icons are not working.(Removed a section)
 
+👉 Facing an issue in table of contents container - list are not placing properly
 
+
+
+
+💡 Ideas 💡
+
+👉 Have an idea of placing an image near table of contents
+
+👉 Make web page colourfull..
 
 ✅ Completed ✅
 
 👉 Header is completed with styles...
+
+👉 Table of content completed with styles..

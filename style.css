@@ -79,11 +79,55 @@ body{
     width: 400px;
     font-family: 'Josefin Sans', sans-serif;
     background-color: white;
+    border-radius: 15px;
     font-size: x-large;
     left: 150px;
     position: relative;
-    padding: 15px;
+    padding: 25px;
     top: -150px;
     box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
 }
+#head{
+    color: #0066FF;
+}
+#def{
+    font-weight: 600;
+    color: #0066FF;
+}
+
+.content2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    right: 200px;
+    margin-left: 400px;
+    border-radius: 15px;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+}
+
+.tochead{
+    text-transform: capitalize;
+    font-size: xx-large;
+    position: relative;
+    right: 20px;
+    color: #0066FF;
+}
+
+
+.toc li{
+    list-style: none;
+    margin: 40px;
+    text-align: right;
+    color: #0066FF;
+}
+.toc a{
+    text-decoration: none;
+}
+
 /* ----------------content styles starts */
