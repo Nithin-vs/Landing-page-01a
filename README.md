@@ -5,6 +5,8 @@ Hi there!👋👋
 
 This is my new project.
 I have a plan on desigining a Landing page..
+This page is inspired from geeksforgeeks website 🥇..
+🏷 LINK : https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/🏷
 
 🔷THIS README FILE WILL BE UPDATED WHILE CODING THE PROJECT!🔷
 
