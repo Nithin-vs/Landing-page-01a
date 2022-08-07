@@ -18,6 +18,8 @@ This page is inspired from geeksforgeeks website 🥇..
 
 👉 Facing an issue in table of contents container - list are not placing properly
 
+👉 Choosing Box shadow colors are complicated..
+
 
 
 
@@ -27,8 +29,13 @@ This page is inspired from geeksforgeeks website 🥇..
 
 👉 Make web page colourfull..
 
+
+
+
 ✅ Completed ✅
 
 👉 Header is completed with styles...
 
 👉 Table of content completed with styles..
+
+👉 Container 2 completed with styles..

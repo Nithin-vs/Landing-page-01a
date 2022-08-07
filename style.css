@@ -135,3 +135,131 @@ body{
 }
 
 /* ----------------content styles starts */
+
+/* ------------------container 2 styles starts*/
+
+.container2{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    top: 150px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+}
+.why{
+    width: 350px;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    margin-left: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+.whyp{
+    color: #0066FF;
+}
+.how{
+    width: 350px;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    margin-right: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+.how li{
+    text-decoration: none;
+    list-style: circle;
+    text-align: left;
+}
+.howp{
+    text-align: center;
+    color: #0066FF;
+}
+.howspan{
+    text-align: center;
+}
+
+.con2img{
+    position: relative;
+    left: 450px;
+    top: -340px;
+}
+
+/* ------------------container 2 styles ends */
+
+
+/* --------------------all buttons comes here */
+
+.button{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+.button1{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    transition: all 0.5s;
+}
+.button1 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button1 span:after{
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+.button1:hover span {
+    padding-right: 25px;
+    
+}
+  
+.button1:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+/* --------------------all buttons comes here */
