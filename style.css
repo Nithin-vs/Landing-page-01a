@@ -502,3 +502,151 @@ body{
     right: 0;
 }
 /* container 4 buttons comes here----------------- */
+
+/* roadmap div here------------------------------- */
+.road{
+    position: relative;
+    background-image: url(thomas-griesbeck-BS-Uxe8wU5Y-unsplash.jpg);
+    background-size: cover;
+    padding: 50px;
+    color: black;
+    top: 150px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    background-blend-mode: darken;
+}
+
+/* roadmap div here------------------------------- */
+
+
+/* container 5 styles starts here---------------------- */
+
+.container5{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    top: 300PX;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+.container5 li{
+    text-align: left;
+}
+.math2{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;
+}
+.math2 h3{
+    color: #0066FF;
+    text-align: center;
+}
+.math2 p{
+    text-align: center;
+}
+.math2 li{
+    list-style: circle;
+    margin: 10px;
+}
+.probability{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    height: 550px;
+}
+.probability h3{
+    color: #0066FF;
+    text-align: center;
+}
+.probability p{
+    text-align: center;
+}
+.probability li{
+    list-style: circle;
+    margin: 10px;
+}
+/* container 5 styles ends here-------------------------------- */
+
+
+/* container 5 buttons comes here----------------------------*/
+
+.button6{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 55px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button6 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button6 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button6:hover span {
+    padding-right: 25px;
+}
+  
+  .button6:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.button7{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button7 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button7 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button7:hover span {
+    padding-right: 25px;
+}
+  
+  .button7:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+/* container 5 buttons comes here------------------------------ */
+

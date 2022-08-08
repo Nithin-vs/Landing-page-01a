@@ -14,7 +14,7 @@ Code along with me!!🎆
 
 🔷THIS README FILE WILL BE UPDATED WHILE CODING THE PROJECT!🔷
 
-❗ **Coded with Google Chrome (No responsive)** ❗
+❗ **Google Chrome is used for browser view(No responsive)** ❗
 
 ⚠ **Problems** ⚠ 
 
@@ -45,3 +45,11 @@ Code along with me!!🎆
 ✔ Table of content completed with styles..
 
 ✔ Container 2 completed with styles..
+
+✔ Container 3 completed with styles..
+
+✔ Container 4 completed with styles..
+
+✔ Roadmap completed with styles..
+
+✔ Container 5 completed with styles..
