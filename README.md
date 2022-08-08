@@ -14,20 +14,22 @@ Code along with me!!🎆
 
 🔷THIS README FILE WILL BE UPDATED WHILE CODING THE PROJECT!🔷
 
-⚠ Problems ⚠ 
+❗ **Coded with Google Chrome (No responsive)** ❗
 
-👉 Title icon is small in size so it may not be visisble..
+⚠ **Problems** ⚠ 
 
-👉 Some Font awesome icons are not working.(Removed a section)
+⭕ Title icon is small in size so it may not be visisble..
 
-👉 Facing an issue in table of contents container - list are not placing properly
+⭕ Some Font awesome icons are not working.(Removed a section)
 
-👉 Choosing Box shadow colors are complicated..
+⭕ Facing an issue in table of contents container - list are not placing properly
 
-👉 The srolling of content is fast without transition..
+⭕ Choosing Box shadow colors are complicated..
+
+⭕ The srolling of content is fast without transition..
 
 
-💡 Ideas 💡
+💡 **Ideas** 💡
 
 👉 Have an idea of placing an image near table of contents
 
@@ -36,10 +38,10 @@ Code along with me!!🎆
 
 
 
-✅ Completed ✅
+✅ **Completed** ✅
 
-👉 Header is completed with styles...
+✔ Header is completed with styles...
 
-👉 Table of content completed with styles..
+✔ Table of content completed with styles..
 
-👉 Container 2 completed with styles..
+✔ Container 2 completed with styles..
