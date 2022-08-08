@@ -236,6 +236,7 @@ body{
     color: white;
     position: relative;
     top: 15px;
+    font-weight: bolder;
     transition: all 0.5s;
 }
 .button1 span{
@@ -337,3 +338,167 @@ body{
     right: 0;
 }
 /* -------------------------container 3 buttons */
+
+/* -------------------container 4 styles starts */
+
+.container4{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+.computer{
+    width: 350px;
+    height: 600px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 40px;
+    border-radius: 15px;
+}
+.computer h3{
+    color: #0066FF;
+}
+
+.computer ul{
+    list-style-type: circle;
+    text-align: left ;
+}
+.computer li{
+    margin: 5px;
+}
+.communication{
+    width: 300px;
+    height: 430px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 40px;
+    border-radius: 15px;
+}
+.communication h3{
+    color: #0066FF;
+}
+.learning{
+    width: 310px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;   
+    text-align: center;
+}
+.learning h3{
+    color: #0066FF;
+}
+
+/* -------------------container 4 styles ends  */
+
+/* container 4 buttons comes here----------------- */
+.button3{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button3 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button3 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.button3:hover span {
+    padding-right: 25px;
+}
+  
+.button3:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.button4{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button4 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button4 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.button4:hover span {
+    padding-right: 25px;
+}
+  
+.button4:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.button5{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button5 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button5 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.button5:hover span {
+    padding-right: 25px;
+}
+  
+.button5:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+/* container 4 buttons comes here----------------- */
