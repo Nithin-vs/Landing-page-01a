@@ -20,7 +20,7 @@ This page is inspired from geeksforgeeks website 🥇..
 
 👉 Choosing Box shadow colors are complicated..
 
-
+👉 The srolling of content is fast without transition..
 
 
 💡 Ideas 💡

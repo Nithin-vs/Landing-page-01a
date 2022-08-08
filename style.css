@@ -19,7 +19,7 @@ body{
 .title{
     position: relative;
     top: 150px;
-    left:200px;
+    left:220px; 
     bottom: 0;
     font-family: 'Josefin Sans', sans-serif;
     color: white;
@@ -28,6 +28,7 @@ body{
 #ds{
     margin-bottom: 5px;
     margin-top: 5px;
+    letter-spacing: 10px;
 }
 #sub{
     margin-bottom: 5px;
@@ -122,17 +123,15 @@ body{
 
 
 .toc li{
-    list-style: none;
     margin: 40px;
     text-align: right;
     margin: 20px;
     text-align: center;
     list-style: none;
     color: #0066FF;
+    font-size: larger;
 }
-.toc a{
-    text-decoration: none;
-}
+
 
 /* ----------------content styles starts */
 
@@ -189,7 +188,7 @@ body{
 /* ------------------container 2 styles ends */
 
 
-/* --------------------all buttons comes here */
+/* --------------------container 2 buttons comes here */
 
 .button{
     border-radius: 50px;
@@ -216,16 +215,16 @@ body{
     top: 0;
     right: -20px;
     transition: 0.5s;
-  }
+}
   
-  .button:hover span {
+.button:hover span {
     padding-right: 25px;
-  }
+}
   
-  .button:hover span:after {
+.button:hover span:after {
     opacity: 1;
     right: 0;
-  }
+}
 
 .button1{
     border-radius: 50px;
@@ -262,4 +261,79 @@ body{
     opacity: 1;
     right: 0;
   }
-/* --------------------all buttons comes here */
+/* --------------------container 2 buttons comes here */
+
+/* --------------------container 3 styles starts */
+
+.container3{
+    display: flex;
+    position: relative;
+    top: -300px;
+    justify-content: space-evenly;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    text-align: center;
+    
+}
+
+.domain{
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 50px;
+    border-radius: 15px;
+}
+.domain h3{
+    color: #0066FF;
+}
+
+.math1{
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 50px;
+    border-radius: 15px;
+}
+.math1 h3{
+    color: #0066FF;
+}
+/* --------------------container 3 styles ends */
+
+/* -------------------------container 3 buttons */
+
+.button2{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button2 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button2:hover span {
+    padding-right: 25px;
+}
+  
+  .button2:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+/* -------------------------container 3 buttons */
