@@ -14,6 +14,8 @@ Code along with me!!🎆
 
 🔷THIS README FILE WILL BE UPDATED WHILE CODING THE PROJECT!🔷
 
+❗ **Coded with Google Chrome (No responsive)** ❗
+
 ⚠ **Problems** ⚠ 
 
 ⭕ Title icon is small in size so it may not be visisble..
