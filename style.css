@@ -778,3 +778,128 @@ body{
 
 /* container 6 buttons comes here----------------- */
 
+
+/* container 7 styles starts here-------------- */
+
+.container7{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    top: 600px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.machine{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    height: 700px;
+}
+.machine h3{
+    color: #0066FF;
+}
+.machine li{
+    list-style: circle;
+    text-align: left;
+    margin: 10px;
+}
+.deep{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    
+}
+.deep h3{
+    color: #0066FF;
+    margin-top: 130px;
+}
+.deep li{
+    list-style: circle;
+    text-align: left;
+    margin: 10px;
+}
+/* container 7 styles ends here-------------- */
+
+/* container 7 button styles comes here------ */
+
+.buttona{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 20px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.buttona span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.buttona span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .buttona:hover span {
+    padding-right: 25px;
+}
+  
+  .buttona:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+
+.buttonb{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 70px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+
+.buttonb span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.buttonb span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .buttonb:hover span {
+    padding-right: 25px;
+}
+  
+  .buttonb:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+/* container 7 button styles comes here------ */
+

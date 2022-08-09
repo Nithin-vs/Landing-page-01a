@@ -19,12 +19,12 @@ Code along with me!!🎆
 .
 
 ❗ **Use Google Chrome for best view**  ❗
-.
-.
+
+
 
                   🚩 Live interations 🚩
-.
-.
+
+
 
 ⚠ **Problems** ⚠ 
 
@@ -37,19 +37,19 @@ Code along with me!!🎆
 ⭕ Choosing Box shadow colors are complicated..
 
 ⭕ The srolling of content is fast without transition..
-.
-.
-.
-.
+
+
+
+
 💡 **Ideas** 💡
 
 👉 Have an idea of placing an image near table of contents
 
 👉 Make web page colourfull..
-.
-.
-.
-.
+
+
+
+
 ✅ **Completed** ✅
 
 ✔ Header is completed with styles...
@@ -67,3 +67,5 @@ Code along with me!!🎆
 ✔ Container 5 completed with styles..
 
 ✔ Container 6 completed with styles..
+
+✔ Container 7 completed with styles..
