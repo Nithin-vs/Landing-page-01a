@@ -650,3 +650,131 @@ body{
 
 /* container 5 buttons comes here------------------------------ */
 
+
+/* container 6 styles starts here-------------------- */
+
+.container6{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 450px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.statistics{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    height: 780px;
+}
+
+.statistics li{
+    list-style: circle;
+    text-align: left;
+    margin: 10px;
+}
+.statistics h3{
+    color: #0066FF;
+}
+
+.program{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.program h3{
+    color: #0066FF;
+}
+.program li{
+    list-style: circle;
+    text-align: left;
+    margin: 10px;
+}
+/* container 6 styles ends here-------------------- */
+
+
+/* container 6 buttons comes here----------------- */
+
+.button8{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 15px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+.button8 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button8 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.button8:hover span {
+    padding-right: 25px;
+}
+  
+.button8:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+
+.button9{
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    color: white;
+    position: relative;
+    top: 30px;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+
+.button9 span{
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button9 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.button9:hover span {
+    padding-right: 25px;
+}
+  
+.button9:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+/* container 6 buttons comes here----------------- */
+

@@ -15,6 +15,16 @@ Code along with me!!🎆
 🔷THIS README FILE WILL BE UPDATED WHILE CODING THE PROJECT!🔷
 
 ❗ **Google Chrome is used for browser view(No responsive)** ❗
+.
+.
+
+❗ **Use Google Chrome for best view**  ❗
+.
+.
+
+                  🚩 Live interations 🚩
+.
+.
 
 ⚠ **Problems** ⚠ 
 
@@ -27,17 +37,19 @@ Code along with me!!🎆
 ⭕ Choosing Box shadow colors are complicated..
 
 ⭕ The srolling of content is fast without transition..
-
-
+.
+.
+.
+.
 💡 **Ideas** 💡
 
 👉 Have an idea of placing an image near table of contents
 
 👉 Make web page colourfull..
-
-
-
-
+.
+.
+.
+.
 ✅ **Completed** ✅
 
 ✔ Header is completed with styles...
@@ -53,3 +65,5 @@ Code along with me!!🎆
 ✔ Roadmap completed with styles..
 
 ✔ Container 5 completed with styles..
+
+✔ Container 6 completed with styles..
