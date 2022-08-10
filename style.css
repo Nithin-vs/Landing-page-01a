@@ -903,3 +903,196 @@ body{
 }
 /* container 7 button styles comes here------ */
 
+
+/* main footer --------------------------- */
+
+
+
+/* main footer --------------------------- */
+
+.mainfoot{
+    position: relative;
+    top: 800px;
+    background-color: rgb(65, 57, 57);
+}
+
+/* footer 1 styles starts here-------------- */
+
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 50px;
+    padding-top: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+.customer span{
+    font-weight: bolder;
+    font-size: large;
+}
+.customer li{
+    list-style: none;
+    margin: 10px;
+}
+
+.inside span{
+    font-weight: bolder;
+    font-size: large;
+}
+.inside li{
+    list-style: none;
+    margin: 10px;
+}
+
+.my span{
+    font-weight: bolder;
+    font-size: large;
+}
+.my li{
+    list-style: none;
+    margin: 10px;
+}
+
+.email p{
+    font-weight: bolder;
+    font-size: large;
+}
+
+.socialicons ul{
+    display: flex;
+    position: relative;
+    top: 20px;
+    right: 60px;
+    font-size: x-large;
+}
+.socialicons li{
+    list-style: none;
+    
+}
+.socialicons i{
+    color: white;
+    margin-right: 15px;
+}
+
+.fa-instagram:hover{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+            /* Also define standard property for compatibility */
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.fa-facebook:hover{
+    color: #3b5998;
+}
+.fa-discord:hover{
+    color:  #7289DA;
+}
+.fa-whatsapp:hover{
+    color: #25D366;
+}
+.fa-twitter:hover{
+    color: #00acee;
+}
+.fa-snapchat:hover{
+    color: #FFFC00;
+}
+.email input{
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 5px;
+    padding: 5px;
+    padding-right: 30px;
+    outline-style: none;
+    border: none;
+    text-align: center;
+}
+.btn{
+    font-family: 'Josefin Sans', sans-serif;
+    border: none;
+    position: relative;
+    top: 15px;
+    left: 30px;
+    background-color: rgb(65, 57, 57);
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 20px;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+.btn i{
+    margin-right: 15px;
+}
+.btn:hover{
+    background: linear-gradient(to right,#52A0FD,#00e2fa);
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+/* footer 1 styles ends here-------------- */
+
+
+/* footer 2 styles starts here-------------- */
+
+.footer2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+    margin-left: 100px;
+    color: white;
+}
+.footlogo{
+    width: 200px;
+    height: auto;
+}
+.copy p{
+    position: relative;
+    top: -50px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.copy a{
+    color: white;
+}
+.certi{
+    display: flex;
+    position: relative;
+    top: -50px;
+    right: 40px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.legal{
+    margin-right: 15px;
+}
+.privacy{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 3px solid;
+    border-right: 3px solid;
+
+}
+.security{
+    margin-left: 15px;
+}
+.certi a{
+    text-decoration: none;
+}
+/* footer 2 styles ends here-------------- */
+
+/* footer parts--------------------- */
+
+.footnote{
+    text-align: right;
+    margin-right: 30px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* footer parts--------------------- */

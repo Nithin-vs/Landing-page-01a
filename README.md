@@ -69,3 +69,5 @@ Code along with me!!🎆
 ✔ Container 6 completed with styles..
 
 ✔ Container 7 completed with styles..
+
+✔ Footer completed with styles..
