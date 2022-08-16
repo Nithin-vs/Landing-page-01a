@@ -71,3 +71,7 @@ Code along with me!!🎆
 ✔ Container 7 completed with styles..
 
 ✔ Footer completed with styles..
+
+🕒**Recent updates**🕒
+
+💮 Added a video above the footer (Published: 8/16/2022 | Tuesday)..

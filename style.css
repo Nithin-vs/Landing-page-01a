@@ -904,8 +904,33 @@ body{
 /* container 7 button styles comes here------ */
 
 
-/* main footer --------------------------- */
+/* videos style starts-------------------- */
 
+.video{
+    position: relative;
+    left: 300px;
+    top: 700px;
+    padding: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    border-radius: 15px;
+    text-align: center;
+    width: 560px;
+    height: auto;
+    background-color: white;
+    box-shadow: 0 3px 100px rgb(0 0 0 / 0.2);
+}
+.video h2{
+   color: #0066FF; 
+   position: relative;
+}
+
+
+.frame{
+    position: relative;
+}
+
+/* videos style ends-------------------- */
 
 
 /* main footer --------------------------- */
@@ -915,6 +940,11 @@ body{
     top: 800px;
     background-color: rgb(65, 57, 57);
 }
+
+
+/* main footer --------------------------- */
+
+
 
 /* footer 1 styles starts here-------------- */
 
@@ -1012,7 +1042,7 @@ body{
     border: none;
     position: relative;
     top: 15px;
-    left: 30px;
+    left: 20px;
     background-color: rgb(65, 57, 57);
     color: white;
     font-size: medium;
@@ -1096,3 +1126,5 @@ body{
 }
 
 /* footer parts--------------------- */
+
+
