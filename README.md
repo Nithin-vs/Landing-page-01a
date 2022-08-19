@@ -1,7 +1,12 @@
-# Landing-page-01a
-Creating a new landing page!
+<h1 align="center"> Landing-page-01a</h1>
+ <h3 align="center">Creating a new landing page!</h3>
 
-Hi there!👋👋
+
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=Nithin-vs&label=Repository%20Views&color=9&icon=6&pretty=true" />
+</a><br>
+
+## Hi there!👋👋
 
 This is my new project.
 I have a plan on desigining a Landing page..
@@ -21,12 +26,12 @@ Code along with me!!🎆
 ❗ **Use Google Chrome for best view**  ❗
 
 
+## <p align="center"> 🚩 Live Interations 🚩</p>
+                  
 
-                  🚩 Live interations 🚩
 
 
-
-⚠ **Problems** ⚠ 
+## ⚠ Problems ⚠ 
 
 ⭕ Title icon is small in size so it may not be visisble..
 
@@ -37,20 +42,20 @@ Code along with me!!🎆
 ⭕ Choosing Box shadow colors are complicated..
 
 ⭕ The srolling of content is fast without transition..
+<br><br>
 
 
 
-
-💡 **Ideas** 💡
+## 💡 **Ideas** 💡
 
 👉 Have an idea of placing an image near table of contents
 
 👉 Make web page colourfull..
+<br><br>
 
 
 
-
-✅ **Completed** ✅
+## ✅ **Completed** ✅
 
 ✔ Header is completed with styles...
 
@@ -71,7 +76,8 @@ Code along with me!!🎆
 ✔ Container 7 completed with styles..
 
 ✔ Footer completed with styles..
+<br><br>
 
-🕒**Recent updates**🕒
+## 🕒**Recent updates**🕒
 
 💮 Added a video above the footer (Published: 8/16/2022 | Tuesday)..
